@@ -1,2 +1,2 @@
 # Animal-Planet
-Created with CodeSandbox
+Click on the animal it tell you which animal it is along with a fun fact!
